@@ -30,7 +30,7 @@ a {
 
 a:hover {
     color: blue;
-    transition: 0.3ms all;
+    transition: 0.4s all;
 }
 
 h1 {
